@@ -15,7 +15,7 @@ By:
 Did you use Hextris in your research? Cite us as follows:
 ```
   @misc{engstrom2015hextris,
-    author = {Logan Engstrom, Garrett Finucane, Noah Moroze, Michael Yang},
+    author = {Logan Engstrom, Garrett Finucane, Noah Moroze, Michael Yang, Gabe Macri},
     title = {hextris},
     year = {2015},
     howpublished = {\url{https://github.com/hextris/hextris/}},
