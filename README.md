@@ -10,6 +10,7 @@ By:
  - Garrett Finucane ([@garrettdreyfus](http://github.com/garrettdreyfus))
  - Noah Moroze ([@nmoroze](http://github.com/nmoroze))
  - Michael Yang ([@themichaelyang](http://github.com/themichaelyang))
+ - Gabe Macri ([@g1a1b1e]example.com))
  
  ## Citation
 Did you use Hextris in your research? Cite us as follows:
